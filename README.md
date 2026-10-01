@@ -40,7 +40,7 @@ Pipeline de Machine Learning para prever a ocorrência de casos de sarampo em mu
 <table> <thead> <tr> <th align="left">Arquivo</th> <th align="left">Conteúdo</th> </tr> </thead> <tbody> <tr> <td><code>predicoes_powerbi.csv</code></td> <td>Predições do modelo por município, com probabilidade e acerto</td> </tr> <tr> <td><code>importancia_atributos.csv</code></td> <td>Importância de cada atributo no modelo</td> </tr> <tr> <td><code>curva_roc.csv</code></td> <td>Pontos da curva ROC (FPR x TPR)</td> </tr> <tr> <td><code>metricas.csv</code></td> <td>Resumo das métricas do modelo</td> </tr> </tbody> </table> </details>
 <details> <summary>🛠️ <strong>Como rodar o projeto localmente</strong></summary> <br/>
 
-✅ <strong>Clonar o projeto para a máquina local:</strong> <br/> <code>git clone https://github.com/tomnachbar/sarampo26.git</code>
+✅ <strong>Clonar o projeto para a máquina local:</strong> <br/> <code>https://github.com/flavio-univesp/projeto_integrador_4</code>
 
 <br/><br/>
 
