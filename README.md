@@ -48,15 +48,15 @@ Pipeline de Machine Learning para prever a ocorrência de casos de sarampo em mu
 
 <br/><br/>
 
-✅ <strong>Instale as dependências:</strong> <br/> <code>pip install pandas numpy scikit-learn joblib jupyter</code>
+✅ <strong>Instale as dependências:</strong> <br/> <code>pip install pandas scikit-learn joblib jupyter</code>
 
 <br/><br/>
 
-✅ <strong>Rodando o notebook:</strong> <br/> O arquivo de dados original (<code>ripsa008mb.csv</code>) está compactado como <code>ripsa008mb.zip</code> neste repositório para respeitar o limite de tamanho do GitHub. O <code>pandas</code> lê o <code>.zip</code> diretamente, sem necessidade de extração:
+✅ <strong>Rodando o notebook:</strong> <br/> O arquivo de dados (<code>ripsa008mb.csv</code>) está disponível diretamente neste repositório. O <code>pandas</code> faz a leitura do CSV sem necessidade de descompactação:
 
 <br/><br/>
 
-<code>'ripsa008mb.zip'</code>
+<code>df = pd.read_csv('ripsa008mb.csv')</code>
 
 <br/><br/>
 
